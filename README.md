@@ -54,7 +54,7 @@ You can ask mentors for guidance throughout the hackathon. Collaboration and lea
 The hackathon is an **Hybrid** competition. Further details will be shared with participants.
 
 ### 15. If I need help from the oranizing team, how can I reach them? 
-Gideon Ngetich - Web development lead - gideonngetich86@gmail.com
+Gideon Ng'etich - Web development lead - gideonngetich86@gmail.com
 
 ---
 
