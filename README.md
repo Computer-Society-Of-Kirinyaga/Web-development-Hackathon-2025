@@ -5,7 +5,7 @@ The Web Development Hackathon is a week-long coding challenge where participants
 
 ### 2. When does the hackathon start and end?
 - **Start Date:** Monday, February 3, 2025, at 8:00 AM  
-- **End Date:** Saturday, February 8, 2025, at 8:00 PM  
+- **End Date:** Saturday, February 8, 2025, at 11:00 PM  
 
 ### 3. Who can participate in the hackathon?
 Anyone with an interest in web development! Whether you're a beginner or an experienced developer, there are challenges for all skill levels.
@@ -51,7 +51,10 @@ Yes, teams may be required to present their projects to the judges for final eva
 You can ask mentors for guidance throughout the hackathon. Collaboration and learning are encouraged!
 
 ### 15. Where will the hackathon take place?
-The hackathon is an **in-person** event at the Computer Society of Kirinyaga venue. Further details will be shared with participants.
+The hackathon is an **Hybrid** competition. Further details will be shared with participants.
+
+### 15. If I need help from the oranizing team, how can I reach them? 
+Gideon Ngetich - Web development lead - gideonngetich86@gmail.com
 
 ---
 
